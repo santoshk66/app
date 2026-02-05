@@ -1,0 +1,3082 @@
+[
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_preset_image_bg_circular.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/preset_image_bg_circular.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_device_id_add.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/device_id_add.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_back_seek_whiteball.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_back_seek_whiteball.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_alarm_pictrue.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_alarm_pictrue.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_inversion_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_inversion_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_ivtop.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/ivtop.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_ap_config.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_ap_config.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_back_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/back_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_back_last_file_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_back_last_file_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_intercom_big.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/intercom_big.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_preset_position_click.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_preset_position_click.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_back_choose_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_back_choose_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_back_play_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_back_play_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_show_alert_auto_bind.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/show_alert_auto_bind.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_screenshotdialog.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/screenshotdialog.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_my_device_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/my_device_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_nvr_land_btn_channel_light.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/nvr_land_btn_channel_light.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_nvplayer_fisheye_playview.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_nvplayer_fisheye_playview.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_popup_expand_false_positive_tip.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/popup_expand_false_positive_tip.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_left_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_left_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_quick_config_model.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_quick_config_model.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/raw_soundhint.mp3.flat",
+        "source": "com.macrovideo.demo.app-main-33:/raw/soundhint.mp3"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_mode3_bg_click.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/mode3_bg_click.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_sound_ware_config.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_sound_ware_config.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_smartlink_wifi_config.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_smartlink_wifi_config.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_play_mode2_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/play_mode2_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_cloud_storage_webview.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_cloud_storage_webview.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_top_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_top_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_nvr_land_btn_pre_page_light.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/nvr_land_btn_pre_page_light.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_save_small_btn_1.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/save_small_btn_1.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_device_add_buttom_bg.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/device_add_buttom_bg.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_help_software_password_3.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/help_software_password_3.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_control_btn_left.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/control_btn_left.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_recording.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_recording.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_delete_cancel_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/delete_cancel_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_frame_animation.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/frame_animation.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_nvr_btn_next_page.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/nvr_btn_next_page.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_wechatpay_webview.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_wechatpay_webview.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_last.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_last.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_play_mode1_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/play_mode1_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_data_time_save_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/data_time_save_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_nvr_land_btn_next_page.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/nvr_land_btn_next_page.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_photo_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/photo_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_searchdialog.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/searchdialog.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_control_btn_down_click.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/control_btn_down_click.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_server_list_item_bg.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/server_list_item_bg.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_device_update_num.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/device_update_num.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_checkswitchdecode_cs_btn_unpressed.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/checkswitchdecode_cs_btn_unpressed.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_wifi_unlock_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/wifi_unlock_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_shape_bottom_corner_no_top_line.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/shape_bottom_corner_no_top_line.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_mode_inversion_bg.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/mode_inversion_bg.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_control_btn_up.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/control_btn_up.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_back_sound_4.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_back_sound_4.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_wifi_lock_3.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/wifi_lock_3.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_ap_connect_popuwindow_bg.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/ap_connect_popuwindow_bg.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_nvr_land_btn_screenshot_light.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/nvr_land_btn_screenshot_light.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_btn_color_selector.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/btn_color_selector.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_device_defending.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/device_defending.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_record.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_record.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_edittext_input.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/edittext_input.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_login_button_style.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/login_button_style.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_icon_password.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/icon_password.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_null_view.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/null_view.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_alarm_relecance_device_select_item.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/alarm_relecance_device_select_item.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_xlistview_footer.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/xlistview_footer.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_data_time_off.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/data_time_off.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_delete_photo_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/delete_photo_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_pay_result.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/pay_result.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_capture_click.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_capture_click.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_recfile_list_item_cloud.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/recfile_list_item_cloud.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_control_click.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_control_click.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_spinner_bg.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/spinner_bg.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_chn_button_style.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/chn_button_style.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_nvplayer_serverlist.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_nvplayer_serverlist.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/anim_popupwindow_more_anim_in.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/anim/popupwindow_more_anim_in.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_device_hotspot_directing.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/device_hotspot_directing.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_smartlink_close.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/smartlink_close.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_notification_custom_builder.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/notification_custom_builder.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_photo_delete_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/photo_delete_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/raw_input_wifi_pwd.mp3.flat",
+        "source": "com.macrovideo.demo.app-main-33:/raw/input_wifi_pwd.mp3"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_icon_phone.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/icon_phone.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_nvr_land_btn_pre_page.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/nvr_land_btn_pre_page.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_alarm_pic_dialog_bg.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/alarm_pic_dialog_bg.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_device_bg.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/device_bg.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_cancel_pressed.9.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_cancel_pressed.9.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_talkback_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_talkback_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_ceiling_bg_click.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/ceiling_bg_click.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_netword_refresh_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/netword_refresh_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_back_seek_3.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_back_seek_3.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_nvplayer_playview.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_nvplayer_playview.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_icon_software_update.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/icon_software_update.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_line.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/line.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_checkswitchdecode_en_cs_bottom.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/checkswitchdecode_en_cs_bottom.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_checkswitch_frame.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/checkswitch_frame.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_play_closescreen_click.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_play_closescreen_click.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_date_time_function_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/date_time_function_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_help_software_exit.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/help_software_exit.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_nvr_land_btn_record_gray.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/nvr_land_btn_record_gray.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_device_config_bg.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/device_config_bg.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_popup_window_listview2.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/popup_window_listview2.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_stop_cs.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_stop_cs.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_register.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_back_next_file_horziontal2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_back_next_file_horziontal2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/anim_zoomout.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/anim/zoomout.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_delete_save_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/delete_save_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_logindialog.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/logindialog.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_save_xml_btn_2.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/save_xml_btn_2.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_delete_choose_3.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/delete_choose_3.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_date_time_function_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/date_time_function_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_sound_wave_config_window.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/sound_wave_config_window.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_nvr_land_btn_audio.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/nvr_land_btn_audio.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_dialog_normal_layout.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/dialog_normal_layout.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/anim_popupwindow_anim.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/anim/popupwindow_anim.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_nvr_land_btn_screenshot_gray.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/nvr_land_btn_screenshot_gray.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/raw_alarm_warm.wav.flat",
+        "source": "com.macrovideo.demo.app-main-33:/raw/alarm_warm.wav"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_play_setting_txt.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/play_setting_txt.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_phone_alarm_set_3.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/phone_alarm_set_3.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_device_play.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/device_play.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_radio_button_style.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/radio_button_style.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_cross_screen_btn_talk_click.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/cross_screen_btn_talk_click.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/anim_dialog_exit_anim.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/anim/dialog_exit_anim.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_app_update_notification.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/app_update_notification.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_back_last_file_horziontal1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_back_last_file_horziontal1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_arrow.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/arrow.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_server_set_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/server_set_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_back_seek_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_back_seek_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_netword_refresh_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/netword_refresh_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_selector_help_item.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/selector_help_item.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_wechat_payment_icon.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/wechat_payment_icon.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_right_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_right_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_verification_code.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/verification_code.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_xlistview_header.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/xlistview_header.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_scan_press.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/scan_press.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_capture_cs_choose.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_capture_cs_choose.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_software_update_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/software_update_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_back_video_back_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_back_video_back_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_control.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_control.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_radio_select_uncheck.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/radio_select_uncheck.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_play_back_stop_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/play_back_stop_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_cloud_storage.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_cloud_storage.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_new_btn_bg_selector2.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/new_btn_bg_selector2.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_checkswitchdecode_btn_pressed.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/checkswitchdecode_btn_pressed.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_remote_configuration.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_remote_configuration.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_server_list_item_s.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/server_list_item_s.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_area_id_bg_press.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/area_id_bg_press.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_device_delete.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/device_delete.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_common_loading2_0.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/common_loading2_0.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_shape_corner_up_no_title.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/shape_corner_up_no_title.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_wall_bg_click.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/wall_bg_click.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_netword_wifi_bg.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/netword_wifi_bg.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_mode1_transparent.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/mode1_transparent.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_server_list_item2.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/server_list_item2.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_photo_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/photo_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_password_3.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/password_3.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_device_update_txt_en.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/device_update_txt_en.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_btn_relecance_bg_gray_1.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/btn_relecance_bg_gray_1.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_checkswitch_btn_pressed.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/checkswitch_btn_pressed.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_huise.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/huise.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_checkswitch_mask.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/checkswitch_mask.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_gv_one_selector.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/gv_one_selector.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_guide1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/guide1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_main.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/main.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_software_update_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/software_update_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_show_software_update_alert_dialog.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/show_software_update_alert_dialog.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_more_function_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/more_function_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_alarm_set_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/alarm_set_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_nvplayer_user_config.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_nvplayer_user_config.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_net_set_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/net_set_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_back_video_back_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_back_video_back_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_back_next_file_horziontal1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_back_next_file_horziontal1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_new_btn_bg_selector.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/new_btn_bg_selector.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_new_et_bg_selector.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/new_et_bg_selector.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_dialog_add_device_layout.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/dialog_add_device_layout.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_server_set.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/server_set.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_play_back_stop_btn_horziontal.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/play_back_stop_btn_horziontal.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_control_btn_down.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/control_btn_down.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_nvr_land_btn_next_page_gray.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/nvr_land_btn_next_page_gray.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_skip.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_skip.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_new_edittext_bg.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/new_edittext_bg.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_back_choose_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_back_choose_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_delete_cancel_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/delete_cancel_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_popup_window_listview.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/popup_window_listview.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_sound_wave.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/sound_wave.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_datetime_cloud_select_dialog.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/datetime_cloud_select_dialog.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_cloud_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/cloud_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_back_play_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_back_play_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_device_config_datetime.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/device_config_datetime.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_icon_network_setting.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/icon_network_setting.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_handle_bg.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/handle_bg.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_nvr_play.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_nvr_play.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_area_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/area_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_back_light_switch.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_back_light_switch.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_alarm_message_more.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/alarm_message_more.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_alarm_image_viewer.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/alarm_image_viewer.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_back_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/back_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_showcase_content.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/showcase_content.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_alarm_icon.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/alarm_icon.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_new_cb_visibility_selector.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/new_cb_visibility_selector.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_unbind_service_dialog.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/unbind_service_dialog.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_background_title.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/background_title.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_alarm_list_item.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/alarm_list_item.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_device_id_add_bg_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/device_id_add_bg_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_qr_scan.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_qr_scan.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/raw_seekmusic.mp3.flat",
+        "source": "com.macrovideo.demo.app-main-33:/raw/seekmusic.mp3"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/color_gesture_cancel_text_color.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/color/gesture_cancel_text_color.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_icon_account.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/icon_account.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_control_btn_right_click.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/control_btn_right_click.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_server_list_item_g.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/server_list_item_g.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_nvplayer_config.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_nvplayer_config.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_photo_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/photo_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/raw_soundwave_1.mp3.flat",
+        "source": "com.macrovideo.demo.app-main-33:/raw/soundwave_1.mp3"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_scan_normal.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/scan_normal.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_checkswitchdecode_frame.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/checkswitchdecode_frame.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_nvplayer_datetime_select.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_nvplayer_datetime_select.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_nvr_btn_screenshot_gray.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/nvr_btn_screenshot_gray.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_mode5_bg_click.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/mode5_bg_click.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_nvr_btn_record_gray.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/nvr_btn_record_gray.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_icon_recording_setting.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/icon_recording_setting.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_gesture_verify.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_gesture_verify.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/raw_test2.wav.flat",
+        "source": "com.macrovideo.demo.app-main-33:/raw/test2.wav"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-hdpi_icon.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_record_file_item.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/record_file_item.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_mute_click.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_mute_click.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_indicator_bg.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/indicator_bg.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_ceiling_bg.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/ceiling_bg.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_checkbox_check.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_checkbox_check.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_wellcome.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_wellcome.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_back_sound_cs_4.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_back_sound_cs_4.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_alarm_relecance_device.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_alarm_relecance_device.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_soundwave_config_course_dig.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/soundwave_config_course_dig.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_box_msg.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/box_msg.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_sound_new.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_sound_new.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_play_back_play_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/play_back_play_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/anim_popupwindow_more_anim_out.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/anim/popupwindow_more_anim_out.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_delete.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_delete.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_nvplayer_static_ip_config.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_nvplayer_static_ip_config.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_phone_alarm_set_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/phone_alarm_set_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_relecance_device_preset_popupwindow.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/relecance_device_preset_popupwindow.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_talk_click.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_talk_click.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_verification_code_send.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/verification_code_send.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_fresh_btn.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/fresh_btn.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_back_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_back_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_share_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/share_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_popup_expand_mode_layout.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/popup_expand_mode_layout.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_device_config_function_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/device_config_function_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_nvr_btn_channel_light.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/nvr_btn_channel_light.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_playback_devicelist_bg.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/playback_devicelist_bg.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_wall_transparent.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/wall_transparent.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_show_message_dialog.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/show_message_dialog.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_back_candid_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_back_candid_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_anim_arrow.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/anim_arrow.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_mode2_transparent.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/mode2_transparent.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_login.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_storage_bind_en.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/storage_bind_en.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_player_back_device_select_item.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/player_back_device_select_item.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_menu_area_popuwindow.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/menu_area_popuwindow.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_checkswitch_bottom.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/checkswitch_bottom.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_play_back_choose_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/play_back_choose_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_back_play_3.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_back_play_3.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_ptzx_pannel_popupwindow.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/ptzx_pannel_popupwindow.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_display.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_display.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_quick_config_item_bg.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/quick_config_item_bg.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_dialog_registere_layout.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/dialog_registere_layout.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_icon_alarm_setting.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/icon_alarm_setting.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/anim_popupwindow_device_list_anim_out.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/anim/popupwindow_device_list_anim_out.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_checkbox_upload_oss.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/checkbox_upload_oss.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_dropdown_choose.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_dropdown_choose.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_popupwind_alarm_device_delete.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/popupwind_alarm_device_delete.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_mode6_bg.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/mode6_bg.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_shadow_test2.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/shadow_test2.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_device_undefended.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/device_undefended.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_server_list_item.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/server_list_item.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_bottom_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_bottom_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_selector_channnel_bg.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/selector_channnel_bg.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_radar_fan.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/radar_fan.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_wifi_edit_dialog.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/wifi_edit_dialog.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_guide_t.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/guide_t.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_delete_choose_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/delete_choose_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_mode6_transparent.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/mode6_transparent.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_ptzx_face_selector.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/ptzx_face_selector.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_item_selected_bg.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/item_selected_bg.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_netword_refresh_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/netword_refresh_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_bottom_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_bottom_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_server_system.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/server_system.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_icon_phonenumber.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/icon_phonenumber.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_device_ceiling_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/device_ceiling_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_save_xml_btn_1.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/save_xml_btn_1.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_back_sound_cs_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_back_sound_cs_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_pull_to_refresh_header.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/pull_to_refresh_header.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_xlistview_arrow.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/xlistview_arrow.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_bg_playbar.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/bg_playbar.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_storage_overdue_en.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/storage_overdue_en.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_back_next_file_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_back_next_file_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_start_alarmtime_select_dialog.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/start_alarmtime_select_dialog.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_device_status_off.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/device_status_off.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_checkswitchdecode_btn_unpressed.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/checkswitchdecode_btn_unpressed.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/color_radiobutton_color_style.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/color/radiobutton_color_style.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_device.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/device.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_cross_screen_paly_back_candid_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/cross_screen_paly_back_candid_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_back.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_back.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_nvplayer_alarmmessagelist.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_nvplayer_alarmmessagelist.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_nvr_btn_record_light.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/nvr_btn_record_light.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_alarm_pic_dialog_layout.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_alarm_pic_dialog_layout.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/raw_click_to_add.mp3.flat",
+        "source": "com.macrovideo.demo.app-main-33:/raw/click_to_add.mp3"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_back_next_file_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_back_next_file_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_back_sound_cs_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_back_sound_cs_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_popuwindow_delete_device.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/popuwindow_delete_device.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_progressbar_anim.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/progressbar_anim.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/anim_shake.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/anim/shake.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_data_time_ok.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/data_time_ok.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_sound_click_new.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_sound_click_new.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_ap_connect.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_ap_connect.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_checkswitchdecode_cs_btn_pressed.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/checkswitchdecode_cs_btn_pressed.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_popupwind_edit_delete.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/popupwind_edit_delete.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_share_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/share_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_button_press.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/button_press.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_area_bg.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/area_bg.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_arrow_selector.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/arrow_selector.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_cloud_save.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/cloud_save.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_more_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/more_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_alarm_pic_dotted_prompt.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/alarm_pic_dotted_prompt.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_edittext_shape.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/edittext_shape.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_play_back_sound_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/play_back_sound_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_back_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/back_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_about.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_about.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_share_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/share_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_alarm_notice_setting.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_alarm_notice_setting.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/anim_zoomin.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/anim/zoomin.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_icon_static_ip_configuration.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/icon_static_ip_configuration.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_qrdecode_cam_view.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/qrdecode_cam_view.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_select_click.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_select_click.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_bg_login.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/bg_login.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_arrow_false.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/arrow_false.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_play_mode5_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/play_mode5_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_device_config_static_ip.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/device_config_static_ip.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_mode2_bg_click.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/mode2_bg_click.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_dialog_bottom_bg.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/dialog_bottom_bg.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_popup_expand_mode_cross_screen_layout.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/popup_expand_mode_cross_screen_layout.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_relecance_preset_count_item.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/relecance_preset_count_item.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_alarm_set_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/alarm_set_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_time_display.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/time_display.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_draggable_grid_item.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/draggable_grid_item.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_more_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/more_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/anim_transactivity.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/anim/transactivity.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_device_add_title_bg.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/device_add_title_bg.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_wechatpay.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_wechatpay.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_last_file_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/last_file_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/raw_beep.ogg.flat",
+        "source": "com.macrovideo.demo.app-main-33:/raw/beep.ogg"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xxhdpi_icon.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xxhdpi/icon.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_record_file_player2.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_record_file_player2.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_nvr_land_btn_pre_page_gray.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/nvr_land_btn_pre_page_gray.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_radio_select_check.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/radio_select_check.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_play_mode3_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/play_mode3_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_top_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_top_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_date_time_save_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/date_time_save_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_baise.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/baise.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_mode4_bg.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/mode4_bg.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_nvplayer_software_password.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_nvplayer_software_password.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/anim_dialog_enter_anim.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/anim/dialog_enter_anim.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_new_verify_bg_selector.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/new_verify_bg_selector.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_perosonal_information.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_perosonal_information.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_message.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_message.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_nvr_land_btn_screenshot.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/nvr_land_btn_screenshot.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_nvplayer_welcome.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_nvplayer_welcome.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_btn_cancel_selector.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/btn_cancel_selector.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_play_back_sound_btn2.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/play_back_sound_btn2.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/color_text_color_style.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/color/text_color_style.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_mode4_transparent.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/mode4_transparent.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_false_positive_tip_bg.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/false_positive_tip_bg.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/anim_progressbar_animate.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/anim/progressbar_animate.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_checkswitchdecode_tcn_cs_bottom.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/checkswitchdecode_tcn_cs_bottom.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_back_button_bg_alpha.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_back_button_bg_alpha.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_software_update_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/software_update_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_alarm_set_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/alarm_set_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_icon_regional_settings.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/icon_regional_settings.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_popupwindow_ptz_control.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/popupwindow_ptz_control.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_nvplayer_fisheye_playbackview.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_nvplayer_fisheye_playbackview.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_network_config_edit.jpg.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/network_config_edit.jpg"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_icon_help.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/icon_help.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_nvplayer_playbackview.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_nvplayer_playbackview.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_capture.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_capture.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_guide3.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/guide3.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_device_edit.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/device_edit.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_title_msg.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/title_msg.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_nvr_land_btn_channel.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/nvr_land_btn_channel.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_device_config_device_choose_bg_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/device_config_device_choose_bg_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_select_uncheck.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_select_uncheck.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_nvplayer_help.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_nvplayer_help.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_btn_relecance_bg_gray.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/btn_relecance_bg_gray.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_device_wifi_add.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/device_wifi_add.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_help_software_update_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/help_software_update_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_play_back_sound_btn_new.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/play_back_sound_btn_new.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_photo_manager.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_photo_manager.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_nvr_btn_next_page_light.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/nvr_btn_next_page_light.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_sound_ware_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/sound_ware_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_delete_device_item.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/delete_device_item.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_arrow_selector2.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/arrow_selector2.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_area_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/area_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_my_device_3.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/my_device_3.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_preset_position.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_preset_position.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_select_disable.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_select_disable.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_nvr_btn_screenshot.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/nvr_btn_screenshot.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_edittext_input_gray.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/edittext_input_gray.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_wifi_unlock_0.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/wifi_unlock_0.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_mode_inversion_transparent.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/mode_inversion_transparent.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_nvr_land_btn_hd_light.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/nvr_land_btn_hd_light.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_play_talkback_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/play_talkback_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_recfile_list_item.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/recfile_list_item.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_last_click.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_last_click.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_add_id_device_popuwindow.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/add_id_device_popuwindow.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_date_time_save_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/date_time_save_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_mode6_bg_click.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/mode6_bg_click.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_end_alarmtime_select_dialog.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/end_alarmtime_select_dialog.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_server_video_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/server_video_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_play_back_nextdevice_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/play_back_nextdevice_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_icon_time_setting.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/icon_time_setting.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_password_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/password_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_select_device_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/select_device_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_icon_help_logo.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/icon_help_logo.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_nvr_btn_pre_page_gray.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/nvr_btn_pre_page_gray.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_back_last_file_horziontal2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_back_last_file_horziontal2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/anim_popupwindow_expand_mode_in.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/anim/popupwindow_expand_mode_in.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_icon_software_password.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/icon_software_password.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_text_color_selector.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/text_color_selector.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_has_alarm_info.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/has_alarm_info.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_intercom_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/intercom_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_area_id_buttom_bg_press.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/area_id_buttom_bg_press.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_back_candid_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_back_candid_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_device_config_function_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/device_config_function_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_netword_save_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/netword_save_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_back_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_back_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_device_config_alarm.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/device_config_alarm.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_channelbottombtn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/channelbottombtn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_back_listing_pull_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_back_listing_pull_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_bind_service_dialog.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/bind_service_dialog.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_handle_bg_normal.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/handle_bg_normal.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_area_id_buttom_bg_normal.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/area_id_buttom_bg_normal.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_mode3_transparent.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/mode3_transparent.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_server_system_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/server_system_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_capture_cs.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_capture_cs.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_version_bg.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/version_bg.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_play_closescreen.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_play_closescreen.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_shadow_test.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/shadow_test.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_nvplayer_network_config.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_nvplayer_network_config.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_play_back_play_btn_horziontal.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/play_back_play_btn_horziontal.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_shape_top_corner_no_bottom_line.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/shape_top_corner_no_bottom_line.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_seek_bar_style.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/seek_bar_style.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_delete_photo_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/delete_photo_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_icon_exit_login.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/icon_exit_login.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_back_seek_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_back_seek_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_mode2_bg.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/mode2_bg.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_difinition_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/difinition_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_device_config_list_bg.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/device_config_list_bg.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_nvr_btn_pre_page_light.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/nvr_btn_pre_page_light.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_area_select_title_bg.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/area_select_title_bg.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_difinition_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/difinition_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_next.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_next.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/anim_popupwindow_expand_mode_out.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/anim/popupwindow_expand_mode_out.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_area_id_bg_normal.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/area_id_bg_normal.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_wifi_list_item.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/wifi_list_item.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_netword_message_bg.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/netword_message_bg.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_logining_dlg.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/logining_dlg.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_upload_to_oss_uncheck.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/upload_to_oss_uncheck.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_play_back_candid_txt.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/play_back_candid_txt.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_time_zone_item.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/time_zone_item.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_back_sound_cs_3.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_back_sound_cs_3.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_seek_back_thumb_horizontal.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/seek_back_thumb_horizontal.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_device_info.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/device_info.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_auto_bind_service.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/auto_bind_service.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_delete_alarm_time.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_delete_alarm_time.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_pulltorefresh_down_arrow.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/pulltorefresh_down_arrow.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_phone_alarm_set_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/phone_alarm_set_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_icon.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/icon.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_checkswitchdecode_mask.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/checkswitchdecode_mask.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_nvr_btn_screenshot_light.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/nvr_btn_screenshot_light.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_ceiling_transparent.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/ceiling_transparent.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_icon_user_management.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/icon_user_management.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_btnstate.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/btnstate.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_fragment_record_file_manager.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/fragment_record_file_manager.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_date_time_function_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/date_time_function_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_guide_indicator_bg.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/guide_indicator_bg.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_storage_unbind.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/storage_unbind.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_definition_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_definition_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_intercom_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/intercom_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_alarm_message_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/alarm_message_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_play_back_next_file_btn_horzionta.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/play_back_next_file_btn_horzionta.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_more_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/more_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_dropup.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_dropup.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_delete_choose_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/delete_choose_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_nvplayer_datetime_config.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_nvplayer_datetime_config.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_server_video.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/server_video.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_device_add_bg.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/device_add_bg.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/anim_popupwindow_device_list_anim_in.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/anim/popupwindow_device_list_anim_in.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_chn_selected_button_style.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/chn_selected_button_style.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_ptzx_face_normal.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/ptzx_face_normal.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_icon_exit_software.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/icon_exit_software.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_intercom_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/intercom_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_alarm_message_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/alarm_message_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_scan_selector.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/scan_selector.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_area_list_activity.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/area_list_activity.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_player_backe_device_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/player_backe_device_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_server_set_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/server_set_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_show_no_title_message_dialog.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/show_no_title_message_dialog.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_cross_screen_btn_upsidedown_click.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/cross_screen_btn_upsidedown_click.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_save_alarm_picture.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/save_alarm_picture.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_mode1_bg_click.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/mode1_bg_click.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_definition_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_definition_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/anim_menu_up.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/anim/menu_up.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_storage_overdue.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/storage_overdue.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_wifi_unlock_3.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/wifi_unlock_3.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_net_set_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/net_set_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_next_click.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_next_click.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_date_time.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/date_time.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_alarm_bell.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/alarm_bell.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_tip_box.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/tip_box.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_exit_dialog.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/exit_dialog.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_cross_screen_btn_talk.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/cross_screen_btn_talk.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_alarm_pic_dialog_close.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/alarm_pic_dialog_close.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/anim_anim_arrow.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/anim/anim_arrow.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_control_btn_right.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/control_btn_right.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_play_back_sound_btn_horziontal.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/play_back_sound_btn_horziontal.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_difinition_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/difinition_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_light_off.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/light_off.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_mode1_bg.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/mode1_bg.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_popup_device_mode_layout.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/popup_device_mode_layout.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_popup_window_more2.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/popup_window_more2.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_nvplayer_cloudplaybackview.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_nvplayer_cloudplaybackview.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_server_system_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/server_system_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_net_set_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/net_set_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_ap_connect_popupwindow.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_ap_connect_popupwindow.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_icon_update_device.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/icon_update_device.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_device_wall_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/device_wall_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_help_software_password_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/help_software_password_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_area_select_bottom_bg.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/area_select_bottom_bg.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_device_update_txt_zh.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/device_update_txt_zh.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_delete_choose_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/delete_choose_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_checkswitchdecode_cs_bottom.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/checkswitchdecode_cs_bottom.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_device_add_buttom_bgg.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/device_add_buttom_bgg.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_arrow_true.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/arrow_true.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/anim_popshow_anim.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/anim/popshow_anim.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_help_software_password_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/help_software_password_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_nvr_land_btn_channel_gray.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/nvr_land_btn_channel_gray.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_alarm_pic_double_click_bg.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/alarm_pic_double_click_bg.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_wellcome_bg.jpg.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/wellcome_bg.jpg"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_pot_loading_animation_list.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/pot_loading_animation_list.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_nvplayer_device_edit.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_nvplayer_device_edit.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_checkswitchdecode_cs_frame.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/checkswitchdecode_cs_frame.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_wifi_unlock_4.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/wifi_unlock_4.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_preset_image_bg.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/preset_image_bg.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_lanse.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/lanse.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_nvr_land_btn_hd.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/nvr_land_btn_hd.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_shape_corner_down_no_title.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/shape_corner_down_no_title.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_nvr_land_btn_record_light.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/nvr_land_btn_record_light.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_playback_item_bg.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/playback_item_bg.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_nvr_btn_record.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/nvr_btn_record.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_photo_gridview_item.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/photo_gridview_item.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_position.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_position.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_device_config_version.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/device_config_version.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_back_last_file_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_back_last_file_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_cloud_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/cloud_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_nvr_land_btn_next_page_light.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/nvr_land_btn_next_page_light.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_select_device_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/select_device_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_demo_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/demo_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_play_cloud_terrace_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/play_cloud_terrace_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_help_software_update_3.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/help_software_update_3.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_devices_select_dialog.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/devices_select_dialog.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_netword_hide.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/netword_hide.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_server_video_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/server_video_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_nvr_land_btn_record.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/nvr_land_btn_record.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/raw_close_to_dev_and_play.mp3.flat",
+        "source": "com.macrovideo.demo.app-main-33:/raw/close_to_dev_and_play.mp3"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_save_small_btn_2.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/save_small_btn_2.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_device_config_netword.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/device_config_netword.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_guide_tl.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/guide_tl.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_password_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/password_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_nvr_land_btn_audio_light.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/nvr_land_btn_audio_light.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_button_default.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/button_default.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_update.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_update.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_my_device_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/my_device_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_ivdown.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/ivdown.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_list_custom_time_item.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/list_custom_time_item.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_guide4.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/guide4.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_channelbtnstate.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/channelbtnstate.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_play_back_lastdevice_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/play_back_lastdevice_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_nvr_land_btn_sd_gray.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/nvr_land_btn_sd_gray.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_server_bg.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/server_bg.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_checkbox_normal.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_checkbox_normal.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_upsidedown.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_upsidedown.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_checkswitchdecode_bottom.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/checkswitchdecode_bottom.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/raw_device_perpare.mp3.flat",
+        "source": "com.macrovideo.demo.app-main-33:/raw/device_perpare.mp3"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_ptzx_face.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/ptzx_face.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_nvplayer_playback.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_nvplayer_playback.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_x2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/x2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_line_background.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/line_background.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_help_bg.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/help_bg.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_handle_bg_pressed.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/handle_bg_pressed.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_upsidedown_click.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_upsidedown_click.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_back_to_top.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/back_to_top.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_talkback_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_talkback_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_device_item_color.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/device_item_color.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/raw_to_search_or_back.mp3.flat",
+        "source": "com.macrovideo.demo.app-main-33:/raw/to_search_or_back.mp3"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_checkswitchdecode_cs_mask.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/checkswitchdecode_cs_mask.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_cover.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/cover.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_guide.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_guide.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_device_two_add.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/device_two_add.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_nvplayer_alarmandprompt_config.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_nvplayer_alarmandprompt_config.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_datetime_select_dialog.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/datetime_select_dialog.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_icon_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/icon_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_mode_inversion_bg_click.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/mode_inversion_bg_click.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_viewpager.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_viewpager.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_guide2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/guide2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_fragment_photo_manager.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/fragment_photo_manager.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_inversion_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_inversion_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_edittext_input_blue.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/edittext_input_blue.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_paly_back_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/paly_back_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_gesture_edit.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_gesture_edit.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_demo_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/demo_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_dropdown.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_dropdown.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_click1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/click1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_pause.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/pause.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_rounded_image_bg.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/rounded_image_bg.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_device_config_device_choose_bg.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/device_config_device_choose_bg.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_translucence_bg.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/translucence_bg.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_selector_dialog_bg.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/selector_dialog_bg.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_date_time_title.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/date_time_title.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_select.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_select.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_download.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_download.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_device_list_image_bg.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/device_list_image_bg.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_nvr_btn_next_page_gray.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/nvr_btn_next_page_gray.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_pulltorefresh_up_arrow.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/pulltorefresh_up_arrow.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_hotspot.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/hotspot.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_nvplayer_version_info.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_nvplayer_version_info.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_play_back_candid_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/play_back_candid_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-mdpi_icon.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_play_preset_position_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/play_preset_position_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/raw_alarm_notice.wav.flat",
+        "source": "com.macrovideo.demo.app-main-33:/raw/alarm_notice.wav"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_tool_button_style.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/tool_button_style.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_seek_back_thumb.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/seek_back_thumb.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_wifi_lock_4.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/wifi_lock_4.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_mute.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_mute.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_cross_screen_play_inversion_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/cross_screen_play_inversion_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_light_on.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/light_on.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_mailbox_register.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_mailbox_register.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_download_pressed.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/download_pressed.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_ptzx_face_press.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/ptzx_face_press.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_shape_corner_down.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/shape_corner_down.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_photo_activity.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/photo_activity.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_dialog_set_password_layout.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/dialog_set_password_layout.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/anim_shake2.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/anim/shake2.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_back_listing_pull_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_back_listing_pull_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_nvr_btn_channel_gray.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/nvr_btn_channel_gray.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_area_list_item.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/area_list_item.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_light_auto.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/light_auto.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_help_software_update_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/help_software_update_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_edit_text_view_bg_1.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/edit_text_view_bg_1.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_popup_wall_expand_mode_layout.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/popup_wall_expand_mode_layout.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-ldpi_icon.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_is_not_false_positive.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/is_not_false_positive.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_storage_bind.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/storage_bind.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_wall_bg.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/wall_bg.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_delete_choose_not_button.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/delete_choose_not_button.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_right_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_right_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_recfile_download_dialog.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/recfile_download_dialog.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/color_blue_text_color_style.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/color/blue_text_color_style.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_back_seek_blue.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_back_seek_blue.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_control_btn_left_click.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/control_btn_left_click.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_wifi_unlock_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/wifi_unlock_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_online.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/online.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_nvr_btn_channel.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/nvr_btn_channel.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_icon_exit.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/icon_exit.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_checkswitchdecode_en_bottom.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/checkswitchdecode_en_bottom.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_seek_bar_style2.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/seek_bar_style2.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_sound2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_sound2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_mode3_bg.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/mode3_bg.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_mode4_bg_click.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/mode4_bg_click.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_back_sound_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_back_sound_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_preset_count_item.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/preset_count_item.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_photo_delete_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/photo_delete_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_storage_unbind_en.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/storage_unbind_en.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_checkswitchdecode_tcn_bottom.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/checkswitchdecode_tcn_bottom.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_manu_device_add_popuwindow.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/manu_device_add_popuwindow.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_offline.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/offline.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_device_add_delete_item.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/device_add_delete_item.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_share_alarm_picture.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/share_alarm_picture.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_cross_screen_play_talkback_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/cross_screen_play_talkback_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_device_status_on.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/device_status_on.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_play_mode4_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/play_mode4_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_device_id_add_bg.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/device_id_add_bg.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/anim_push_out.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/anim/push_out.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_play_back_next_file_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/play_back_next_file_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_upload_to_oss_ischeck.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/upload_to_oss_ischeck.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_wifi_lock_0.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/wifi_lock_0.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_nvr_btn_pre_page.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/nvr_btn_pre_page.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_icon_device.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/icon_device.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_play_back_background_title.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/play_back_background_title.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_fresh_image.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/fresh_image.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_icon_alarm_notification.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/icon_alarm_notification.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_delete_cancel_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/delete_cancel_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/anim_push_in.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/anim/push_in.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_delete_choose_save_button.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/delete_choose_save_button.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_back_stop_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_back_stop_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_device_hotspot_logo.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/device_hotspot_logo.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_service_list_item.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/service_list_item.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_guide_tr.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/guide_tr.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_wifi_lock_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/wifi_lock_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_mode5_transparent.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/mode5_transparent.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_stop_cs_click.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_stop_cs_click.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_back_sound_3.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_back_sound_3.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_last_file_btn_horizontal.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/last_file_btn_horizontal.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_nvplayer_record_config.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_nvplayer_record_config.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_help.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_help.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_shape_no_corner_without_bottom.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/shape_no_corner_without_bottom.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_alarm_pic_load_fail.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/alarm_pic_load_fail.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_device_config_video.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/device_config_video.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_nvr_land_btn_hd_gray.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/nvr_land_btn_hd_gray.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_what_is_false_positive.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/what_is_false_positive.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_forget_password.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_forget_password.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_register_mobile_phone.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_register_mobile_phone.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_more.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/more.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_edit.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_edit.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_nvr_land_btn_audio_gray.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/nvr_land_btn_audio_gray.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_recording_click.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_recording_click.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_delete_photo_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/delete_photo_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_netword_show_password.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/netword_show_password.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_shoushi.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/shoushi.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_activity_home_page.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/activity_home_page.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_control_btn_up_click.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/control_btn_up_click.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_back_seek_blue_ball.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_back_seek_blue_ball.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_mode5_bg.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/mode5_bg.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_show_alert_dialog.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/show_alert_dialog.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_device_config_user.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/device_config_user.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_click2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/click2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_talk.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_talk.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_play_definition_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/play_definition_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_icon_mailbox_number.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/icon_mailbox_number.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_play_back_sound_btn_horziontal2.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/play_back_sound_btn_horziontal2.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_play_back_sound_btn_new2.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/play_back_sound_btn_new2.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_playback_item_disenable_bg.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/playback_item_disenable_bg.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_alarm_relecance_add_item.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/alarm_relecance_add_item.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_device_add_buttom_bg_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/device_add_buttom_bg_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/layout_quick_config_item.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/layout/quick_config_item.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_shape_top_corner_bottom_corner.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/shape_top_corner_bottom_corner.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_left_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_left_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_back_stop_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_back_stop_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_sound_reset_bg.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/sound_reset_bg.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_select_checked.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_select_checked.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_date_time_bottom.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/date_time_bottom.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_more_function_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/more_function_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_play_recording_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/play_recording_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_player_back_bg.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/player_back_bg.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_shape_half_round_corner.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/shape_half_round_corner.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_sound_wave_state_bg.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/sound_wave_state_bg.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_icon_picture.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/icon_picture.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_demo_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/demo_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_radar_area.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/radar_area.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_more_function_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/more_function_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_check_for_update_bg.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/check_for_update_bg.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_play_mode6_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/play_mode6_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/anim_pophidden_anim.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/anim/pophidden_anim.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/raw_test.wav.flat",
+        "source": "com.macrovideo.demo.app-main-33:/raw/test.wav"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_device_update_dot.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/device_update_dot.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_cross_screen_btn_upsidedown.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/cross_screen_btn_upsidedown.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_wifi_lock_1.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/wifi_lock_1.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable_play_inversion_btn.xml.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable/play_inversion_btn.xml"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_device_seek_add.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/device_seek_add.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_play_back_sound_2.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/play_back_sound_2.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_hide.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_hide.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_checkswitch_btn_unpressed.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/checkswitch_btn_unpressed.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_btn_cancel.9.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/btn_cancel.9.png"
+    },
+    {
+        "merged": "com.macrovideo.demo.app-debug-31:/drawable-xhdpi_icon_mailbox.png.flat",
+        "source": "com.macrovideo.demo.app-main-33:/drawable-xhdpi/icon_mailbox.png"
+    }
+]

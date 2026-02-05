@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="most_ttf">16sp</dimen>
+    <dimen name="title_ttf">20sp</dimen>
+</resources>

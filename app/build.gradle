@@ -1,0 +1,47 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 34
+
+
+    namespace "com.macrovideo.demo"   // ⭐⭐⭐ THIS WAS MISSING ⭐⭐⭐
+
+    defaultConfig {
+        applicationId "com.macrovideo.demo"
+        minSdkVersion 21
+        targetSdkVersion 34
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+    repositories {
+        flatDir {
+            dirs 'libs'
+        }
+    }
+}
+
+dependencies {
+
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+
+    // ✅ AndroidX (required for SDK 34)
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'androidx.core:core-ktx:1.12.0'
+    implementation 'com.google.android.material:material:1.11.0'
+
+    // ✅ Old Camera SDK (kept as-is)
+    implementation(name: 'NV_SDK_2.0.0', ext: 'aar')
+
+    // ✅ Network & utils
+    implementation 'com.squareup.okhttp3:okhttp:3.12.8'
+    implementation 'com.google.code.gson:gson:2.8.6'
+    implementation 'org.jetbrains:annotations:13.0'
+    implementation 'com.google.zxing:core:3.3.3'
+    implementation 'com.alibaba:fastjson:1.2.56'
+}

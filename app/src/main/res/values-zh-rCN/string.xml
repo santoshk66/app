@@ -1,0 +1,1040 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="desc"></string>
+    <string name="country_code">cn</string>
+    <string name="app_name">demo</string>
+    <string name="app_ver">5.6</string>
+    <string name="app_notice">家居监控，生活无忧</string>
+    <string name="alarm_notice">有新的报警提示信息</string>
+    <string name="pull_to_search">下拉搜索本地设备.</string>
+    <string name="pull_to_refresh_pull_label">下拉搜索设备&#8230;</string>
+    <string name="pull_to_refresh_release_label">放开开始搜索设备&#8230;</string>
+    <string name="pull_to_refresh_refreshing_label">正在搜索&#8230;</string>
+    <string name="str_PasswordIsNil">(密码为空)</string>
+    <string name="str_AcountInfoNil">(未编辑账户信息，使用默认账户)</string>
+    <string name="str_login">登录</string>
+    <string name="str_wifi_list">WIFI 列表</string>
+    <string name="str_secured_type">加密类型: </string>
+    <string name="str_secured_type_open">开放</string>
+    <string name="str_visible_pwd">显示密码</string>
+    <string name="str_hiden_pwd">隐藏密码</string>
+    <string name="str_secured_with">加密方式：</string>
+    <string name="notice_DevIsNULL">设备ID不能为空</string>
+    <string name="notice_DomainIsNULL">设备地址不能为空</string>
+    <string name="notice_UsernameIsNULL">用户名不能为空</string>
+    <string name="notice_PortIsNULL">端口不能为空</string>
+    <string name="notice_PasswordIsNULL">密码不能为空</string>
+    <string name="alert_title_login_failed">登录失败!</string>
+    <string name="alert_connect_tips">建议：下拉列表刷新一下再尝试连接，并检查下网络是否正确连接.</string>
+    <string name="alert_title">提示</string>
+    <string name="alert_btn_OK">确定</string>
+    <string name="alert_btn_Cancel">取消</string>
+    <string name="alert_add_btn_OK">确定添加</string>
+    <string name="alert_add_btn_Cancel">取消</string>
+    <string name="alert_btn_YES">是</string>
+    <string name="alert_btn_NO">否</string>
+    <string name="alert_clear_list">是否清空设备列表？</string>
+    <string name="alert_delete_server">是否删除设备？</string>
+    <string name="alert_set_config_ok">更改配置成功</string>
+    <string name="alert_open_setting_view">温馨提示：设备WIFI模式或配置已经改变；是否需要打开网络设置，修改您的WIFI连接？</string>
+    <string name="alert_open_setting_view_ap">温馨提示：前端: 备处于AP热点模式，如果需要连接它，请点击“确定”修改你的WIFI连接配置</string>
+    <string name="alert_get_config_fail">获取配置失败</string>
+    <string name="alert_set_config_fail">更改配置失败</string>
+    <string name="alert_username_is_invalide">用户名不能为空</string>
+    <string name="alert_password_err">原密码输入有误.</string>
+    <string name="alert_password_confirm_err">新密码两次输入不相同.</string>
+    <string name="alert_stop_play">是否停止接收视频?</string>
+    <string name="alert_station_password_is_null">Station 的密码不能为空.</string>
+    <string name="alert_ap_name_is_null">AP 名字不能为空.</string>
+    <string name="alert_station_name_is_null">Station 名字不能为空.</string>
+    <string name="result_code_conn_fail">设备连接失败</string>
+    <string name="login_Result_MR_Server_Busy">服务器正忙，请稍后再试.</string>
+    <string name="login_Result_MR_Server_Disconnet">与前端设备连接已经断开.</string>
+    <string name="login_Result_ConnectTimeout">连接超时.</string>
+    <string name="notice_Result_ConnectServerFailed">连接设备失败.</string>
+    <string name="notice_Result_PWD_ERR_AP">AP 密码要求为空或者大于等于8个字符.</string>
+    <string name="notice_Result_PWD_ERR_Station">Station 密码要求为空或者大于等于8个字符.</string>
+    <string name="notice_Result_PWD_ERR">密码要求为空或者大于等于8个字符.</string>
+    <string name="notice_Result_NOPRI">权限不足.</string>
+    <string name="notice_Result_UserNoExist">用户不存在.</string>
+    <string name="notice_Result_PWDError">用户名或密码错误.</string>
+    <string name="notice_Result_BadResult">数据损坏.</string>
+    <string name="notice_Result_NetError">网络连接失败!</string>
+    <string name="notice_Result_Server_Offline">前端设备不在线.</string>
+    <string name="notice_Result_VerifyFailed">验证错误.</string>
+    <string name="notice_Result_Old_Version">前端设备版本不支持.</string>
+    <string name="toast_last_page">已经是最后一页</string>
+    <string name="toast_first_page">已经是第一页</string>
+    <string name="toast_add_in_list">已添加到列表</string>
+    <string name="toast_remove_from_list">已从列表删除</string>
+    <string name="toast_network_unreachable">网络连接不可用，请检查网络设置</string>
+    <string name="toast_list_is_null">设备列表为空, 请添加设备</string>
+    <string name="connecting">正在连接&#8230;</string>
+    <string name="loading">正在加载&#8230;</string>
+    <string name="name">名称:</string>
+    <string name="server">设备地址:</string>
+    <string name="port">端       口:</string>
+    <string name="username">用户名: </string>
+    <string name="password">密     码: </string>
+    <string name="password_old">原密码: </string>
+    <string name="password_new">新密码: </string>
+    <string name="password_confirm">确认密码: </string>
+    <string name="autologin">自动登录</string>
+    <string name="record_info">记住登录信息</string>
+    <string name="norecord">没有输入记录</string>
+    <string name="nameHint">在这里输入一个名称</string>
+    <string name="serverHint">请输入设备地址</string>
+    <string name="portHint">请输入接收端口</string>
+    <string name="usernameHint">请输入用户名</string>
+    <string name="passwordHint">请输入密码</string>
+    <string name="btn_login">登录</string>
+    <string name="btn_serverList">设备列表</string>
+    <string name="btn_back">返回</string>
+    <string name="btn_refresh">刷新</string>
+    <string name="btn_add">添加</string>
+    <string name="btn_delete">删除</string>
+    <string name="btn_edit">编辑</string>
+    <string name="btn_finish">完成</string>
+    <string name="btn_search">搜索</string>
+    <string name="btn_research">搜索设备</string>
+    <string name="btn_addtolist">添加到列表</string>
+    <string name="btn_IsInlist">已添加到列表</string>
+    <string name="btn_save">保存</string>
+    <string name="btn_save_setting">设置</string>
+    <string name="btn_cancel">取消</string>
+    <string name="btn_ok">确定</string>
+    <string name="btn_add_qr">二维码添加</string>
+    <string name="btn_stop_all">停止</string>
+    <string name="btn_stop_play">停止</string>
+    <string name="btn_start_play">收看</string>
+    <string name="btn_one_key_sync">设为手机时间</string>
+    <string name="btn_save_time">设置时间</string>
+    <string name="btn_get_from_list">从本地WIFI中选取</string>
+    <string name="title_add_device">添加设备</string>
+    <string name="title_Edit_device">修改设备</string>
+    <string name="searching">正在搜索设备&#8230;</string>
+    <string name="searchcancel">搜索被取消</string>
+    <string name="has">搜索到</string>
+    <string name="device_found">台设备</string>
+    <string name="logining">正在登录&#8230;</string>
+    <string name="Notification_To_Login">设备未登录&#8230;</string>
+    <string name="Notification_Playing_Chn">正在收看： </string>
+    <string name="str_Notic_Close_APP">是否要退出程序? </string>
+    <string name="str_serverList">设备列表 </string>
+    <string name="notice_RecvDataFailed">连接失败.</string>
+    <string name="notice_RecvStop">与前端设备连接断开.</string>
+    <string name="str_Select_To_Play">请选择收看通道</string>
+    <string name="str_PlayingChn">正在收看通道：</string>
+    <string name="wifi_mode">WIFI 模式: </string>
+    <string name="wifi_mode_ap">AP</string>
+    <string name="wifi_mode_station">Station</string>
+    <string name="wifi_mode_ap_setting">AP模式 (热点模式，无需外接路由)</string>
+    <string name="wifi_current_mode">当前模式: </string>
+    <string name="wifi_mode_station_setting">Station模式 (路由器连接模式)</string>
+    <string name="server_config">设备信息设置</string>
+    <string name="local_config">本地设置:</string>
+    <string name="remote_config">远程设置:</string>
+    <string name="config_base">设备基本信息</string>
+    <string name="config_network">网络设置</string>
+    <string name="config_record">录像设置</string>
+    <string name="config_time">时间设置</string>
+    <string name="config_user">用户管理</string>
+    <string name="config_alarm_prompt">报警设置</string>
+    <string name="station_current_wifi">设置的WIFI: </string>
+    <string name="record_auto_record_title">自动录像</string>
+    <string name="record_record_open">开启</string>
+    <string name="record_record_close">关闭</string>
+    <string name="record_alarm_record_title">报警录像</string>
+    <string name="record_record_full_op">录像满盘操作: </string>
+    <string name="record_record_full_op_recorver">覆盖旧文件</string>
+    <string name="record_record_full_op_stop">停止录像</string>
+    <string name="date_current">日期:</string>
+    <string name="time_current">时间:</string>
+    <string name="device_time_current">当前设备时间:</string>
+    <string name="set_time">时间设置:</string>
+    <string name="set_date">日期设置:</string>
+    <string name="getting_network_config">正在获取网络配置&#8230;</string>
+    <string name="getting_network_config_fail">获取网络配置失败.</string>
+    <string name="getting_record_config">正在获取录像配置&#8230;</string>
+    <string name="getting_record_config_fail">取录像配置失败.</string>
+    <string name="getting_datetime_config">正在获取系统时间…</string>
+    <string name="getting_datetime_config_fail">获取系统时间失败.</string>
+    <string name="getting_alarmprompts_config">正在获取报警和提示设置信息&#8230;</string>
+    <string name="getting_alarmprompts_config_fail">获取报警和提示设置失败.</string>
+    <string name="getting_version_info">正在获取设备版本信息…</string>
+    <string name="getting_version_info_fail">获取设备版本失败.</string>
+    <string name="user_info">用户信息</string>
+    <string name="getting_user_config">正在获取用户配置…</string>
+    <string name="getting_user_config_fail">获取用户配置失败.</string>
+    <string name="local_wifi_device_list">本地WIFI设备列表，请选择.</string>
+    <string name="modify_password">修改密码</string>
+    <string name="wifi_no_select">请选择WIFI设备.</string>
+    <string name="disk_size">磁盘空间大小: </string>
+    <string name="disk_use">剩余磁盘空间: </string>
+    <string name="no_dev_found">没有发现新设备.</string>
+    <string name="search_finish">列表已刷新.</string>
+    <string name="add_device">新添加设备：</string>
+    <string name="strIDNumber">设备 ID:</string>
+    <string name="strAdvance">高级设置</string>
+    <string name="strDeviceVerInfo">设备升级</string>
+    <string name="strAppVersion">系统软件版本：</string>
+    <string name="strKernalVersion">系统内核版本：</string>
+    <string name="strHardwareVersion">系统硬件版本：</string>
+    <string name="strVersionDate">创建日期:</string>
+    <string name="btnSelectALL">全选</string>
+    <string name="btnUnSelectALL">反选</string>
+    <string name="btnDelect">删除</string>
+    <string name="tabDeviceList">设备列表</string>
+    <string name="tabHome">首页</string>
+    <string name="tabScreenShot">图片</string>
+    <string name="tabPlayback">回放</string>
+    <string name="tabHelp">帮助</string>
+    <string name="lblSelectDevice">请选择设备</string>
+    <string name="lblDevice">选中设备: </string>
+    <string name="lblDate">选择日期: </string>
+    <string name="lblStartTime">开始时间: </string>
+    <string name="lblEndTime">结束时间: </string>
+    <string name="lblRecType">录像类型: </string>
+    <string name="strAll">全部</string>
+    <string name="strAuto">自动录像</string>
+    <string name="strAlarm">报警录像</string>
+    <string name="noticNoDeviceSelect">设备没有选中</string>
+    <string name="noticStartlargeThanEnd">开始时间不能大于结束时间</string>
+    <string name="noticEndLessThanStart">结束时间不能小于开始时间</string>
+    <string name="noticRecConnectFail">搜索失败：连接设备失败.</string>
+    <string name="noticRecOKNOFiles">搜索完毕，没有发现你要查找的录像文件</string>
+    <string name="strStartTime">开始时间: </string>
+    <string name="strTimeLen">时长: </string>
+    <string name="strFileSize">大小：</string>
+    <string name="btnHideList">隐藏列表</string>
+    <string name="btnVisibleList">显示列表</string>
+    <string name="btnSearchRecFile">搜索文件</string>
+    <string name="strRecFileList">录像文件列表</string>
+    <string name="btnVersionUpdate">软件版本更新</string>
+    <string name="btnFunctionManu">软件功能介绍</string>
+    <string name="strHour">小时</string>
+    <string name="strMin">分钟</string>
+    <string name="strSec">秒</string>
+    <string name="lblRecordAudioTitle">录像音频:</string>
+    <string name="lblRecordFrameSize">录像分辨率:</string>
+    <string name="lbl1080P">1080P</string>
+    <string name="lbl720P">720P</string>
+    <string name="lblD1">D1</string>
+    <string name="lblVGA">VGA</string>
+    <string name="lblCIF">CIF</string>
+    <string name="lblQVGA">QVGA</string>
+    <string name="lblNOSDCard">设备没有插入SD 卡</string>
+    <string name="lbSDCardWritteErr">SDCard读写异常</string>
+    <string name="lblGettingAlarmMsg">正在获取报警信息&#8230;</string>
+    <string name="lblSmokeAlarm">烟雾报警</string>
+    <string name="lblMotionAlarm">移动报警</string>
+    <string name="lblPIRAlarm">人体感应报警</string>
+    <string name="lblMoreAlarmMsg">下拉加载更多报警信息.</string>
+    <string name="lblLoadingAlarmMsg">正在加载更多&#8230;</string>
+    <string name="pull_to_load_more">下拉加载更多报警信息.</string>
+    <string name="pull_to_refresh_release_load_more">放开载更多报警信息&#8230;</string>
+    <string name="pull_to_refresh_loading_more">正在加载更多&#8230;</string>
+    <string name="lblInputName">在这里输入一个名称</string>
+    <string name="lblAudioSwitch">语音提示开关:</string>
+    <string name="lblAudioMainSwitch">语音总开关:</string>
+    <string name="lblAlarmAudio">报警音提示:</string>
+    <string name="lblLanguange">提示音语言:</string>
+    <string name="lblIOSwitch">外部报警IO:</string>
+    <string name="lblIOMode">外部报警输出模式:</string>
+    <string name="lblIOModeExternal">外部报警系统</string>
+    <string name="lblIOModeInternal">内部报警系统</string>
+    <string name="lblIOModeManualOff">手动控制关闭输出</string>
+    <string name="lblIOModeManualOn">手动控制开启输入</string>
+    <string name="lblLanguageCN">普通话</string>
+    <string name="lblLanguageEN">英语</string>
+    <string name="lblAlarmMianSwitch">布撤防开关:</string>
+    <string name="lblMotionDetect">移动报警:</string>
+    <string name="strAlarmTime">报警时间：</string>
+    <string name="strAlarmType">报警类型：</string>
+    <string name="strMotionAlarm">移动报警</string>
+    <string name="strSmokeAlarm">烟感报警</string>
+    <string name="strPIRAlarm">PIR报警</string>
+    <string name="strRKEAlarm">门禁报警</string>
+    <string name="strGasAlarm">气体报警</string>
+    <string name="strWarmAlarm">温度报警</string>
+    <string name="strDemonstrate">演示</string>
+    <string name="strDemonList">演示设备列表</string>
+    <string name="btnHD">高清</string>
+    <string name="btnSmooth">流畅</string>
+    <string name="softwareUpdate">软件升级</string>
+    <string name="findNowVersion">发现新版本,马上更新?</string>
+    <string name="btnUpdateNow">更新</string>
+    <string name="btnUpdateLater">以后再说</string>
+    <string name="downWin">下载成功,点击安装</string>
+    <string name="downFail">下载失败</string>
+    <string name="startDown">开始下载</string>
+    <string name="showDown">下载</string>
+    <string name="Downing">正在下载</string>
+    <string name="querySoftwareing">正在查询版本信息请稍后</string>
+    <string name="notNewVersion">无新版本</string>
+    <string name="dateAbnormal">数据异常</string>
+    <string name="wifiConnect">连接</string>
+    <string name="wifi_is">是</string>
+    <string name="wifi_no">否</string>
+    <string name="wifi_confirm">確定</string>
+    <string name="wifi_off">取消</string>
+    <string name="wifi_start">正在启动WIFI,请稍后</string>
+    <string name="wifi_start_bt">您的手机WIFI尚未启动，请先启动您的手机WIFI并连接您的路由器在进行操作。是否启动WIFI</string>
+    <string name="connect_device">正在连接设备</string>
+    <string name="connect_device_succeed">连接设备成功</string>
+    <string name="device_model_trade">设备模式切换中</string>
+    <string name="connect_wifiing">正在连接WIFI</string>
+    <string name="device_model_succeed">模式切换成功,请稍后点击收索按钮进行查找设备</string>
+    <string name="connect_wifi_off">WIFI连接失败</string>
+    <string name="connect_server_off">连接设备失败</string>
+    <string name="wifi_wpa_wpa2">通过WPA/WPA2进行保护</string>
+    <string name="wifi_wep">通过WEP进行保护</string>
+    <string name="wifi_wpa">通过WPA进行保护</string>
+    <string name="wifi_wpa2">通过WPA2进行保护</string>
+    <string name="wifi_password">请输入当前WIFI密码</string>
+    <string name="wifi_refresh">刷新</string>
+    <string name="noticeSDCardNotExist">手机没有插入存储卡</string>
+    <string name="noticeScreenShotFail">截图失败</string>
+    <string name="noticeScreenShotOK">截图已保存到存储卡</string>
+    <string name="noticeFileSaveOK">文件已保存到存储卡</string>
+    <string name="noticeFileSaveToAlbumsOK">图片已保存,可在相册查看</string>
+    <string name="noticeFileSaveFail">文件保存失败</string>
+    <string name="btnSaveToSDCard">保存图片</string>
+    <string name="btnSaveingImage">正在保存图片&#8230;</string>
+    <string name="btnClose">关闭</string>
+    <string name="btnOpen">开启</string>
+    <string name="strTouchToMoveCam">按住方向键或滑動屏幕可以調整鏡頭方向 </string>
+    <string name="lblTimeZoneSetting">设置时区:</string>
+    <string name="lblTimeZoneList">时区列表</string>
+    <string name="lblTimeZoneW12">(GMT -12) 埃尼威托克岛</string>
+    <string name="lblTimeZoneW11">(GMT -11) 萨摩亚</string>
+    <string name="lblTimeZoneW10">(GMT -10) 夏威夷</string>
+    <string name="lblTimeZoneW9">(GMT -9) 阿拉斯加</string>
+    <string name="lblTimeZoneW8">(GMT -8) 太平洋时间</string>
+    <string name="lblTimeZoneW7">(GMT -7) 山区标准时间</string>
+    <string name="lblTimeZoneW6">(GMT -6) 中部标准时间</string>
+    <string name="lblTimeZoneW5">(GMT -5) 东部时间</string>
+    <string name="lblTimeZoneW4">(GMT -4) 大西洋时间</string>
+    <string name="lblTimeZoneW3">(GMT -3) 巴西利亚</string>
+    <string name="lblTimeZoneW2">(GMT -2) 中大西洋</string>
+    <string name="lblTimeZoneW1">GMT -1) 亚述尔群岛</string>
+    <string name="lblTimeZoneZero">(GMT ＋0) 格林威治</string>
+    <string name="lblTimeE1">(GMT +1) 罗马</string>
+    <string name="lblTimeE2">(GMT +2) 以色列</string>
+    <string name="lblTimeE3">(GMT +3) 莫斯科</string>
+    <string name="lblTimeE4">(GMT +4) 巴库</string>
+    <string name="lblTimeE5">(GMT +5) 新德里</string>
+    <string name="lblTimeE6">(GMT +6) Dhakar</string>
+    <string name="lblTimeE7">(GMT +7) 曼谷</string>
+    <string name="lblTimeE8">(GMT +8) 北京</string>
+    <string name="lblTimeE9">(GMT +9) 东京</string>
+    <string name="lblTimeE10">(GMT +10) 悉尼</string>
+    <string name="lblTimeE11">GMT +11) 马加丹</string>
+    <string name="lblTimeE12">(GMT +12) 惠灵顿</string>
+    <string name="deviceChoose">设备选择:</string>
+    <string name="QRcodeAddSaveListing">设备已添加到列表</string>
+    <string name="QRcodeAddFail">失败</string>
+    <string name="QRcodeListingExist">列表已存在该设备</string>
+    <string name="QRcodeErrorDevice">非设备二维码</string>
+    <string name="deviceAddSucceed">设备添加成功</string>
+    <string name="deviceAddFail">设备添加失败</string>
+    <string name="deviceAddEditTextInputType">设备ID不能为空且ID长度不能大于九位数</string>
+    <string name="deviceAlterSucceed">设备修改成功</string>
+    <string name="deviceAlterFail">设备修改失败</string>
+    <string name="myDevice">我的设备</string>
+    <string name="demoPoint">演示点</string>
+    <string name="QuickConfigWifiDevice">快速配置WIFI设备</string>
+    <string name="deviceID">设备ID号:</string>
+    <string name="inputDeviceID">请输入设备ID</string>
+    <string name="deviceDelete">删除成功</string>
+    <string name="nonsupport5GWIFI">* 暂不支持连接5G WIFI</string>
+    <string name="gainWIFIList">正在获取WIFI列表请稍后</string>
+    <string name="planConfig">准备配置</string>
+    <string name="sendSoundWave">正在发送声波</string>
+    <string name="startConfig">声波配置</string>
+    <string name="clickSendSoundWave">点击发送声波</string>
+    <string name="inProcessOfPlay">正在收看</string>
+    <string name="horizontalPlay">横屏收看高清视频效果更佳</string>
+    <string name="FileFirst">当前文件已为第一个文件</string>
+    <string name="FileFinally">当前文件已为最后文件</string>
+    <string name="AllPlayBack">全部录像</string>
+    <string name="noDevice">无设备</string>
+    <string name="VideoPlayBack">录像回放</string>
+    <string name="devcieConfig">设备配置</string>
+    <string name="morefunction">更多功能</string>
+    <string name="phoneAlarmSet">推送通知</string>
+    <string name="softwarePassword">软件密码</string>
+    <string name="softwareupdate">软件更新</string>
+    <string name="exitSoftware">退出</string>
+    <string name="deviceName">设备名称</string>
+    <string name="WifiName">WIFI名称</string>
+    <string name="WifiPassword">WIFI密码</string>
+    <string name="voiceTalkback">您现在可以进行语音对讲</string>
+    <string name="standardDefinition">标清</string>
+    <string name="videoPlaying">视频播放</string>
+    <string name="takeACabdidPhotograph">抓拍</string>
+    <string name="inversion">倒置</string>
+    <string name="talkback">对讲</string>
+    <string name="monitor">监听</string>
+    <string name="definition">清晰度</string>
+    <string name="back">返回</string>
+    <string name="sohuDefinition">超清</string>
+    <string name="quickConfig">快速配置</string>
+    <string name="chooseConfigDevice">请选择需要配置的设备</string>
+    <string name="inputDeviceConnectWIFI">请输入设备路由器名称和密码</string>
+    <string name="deviceDistanceWithWifi">(温馨提示：请用手机在距离设备3米内进行配置)</string>
+    <string name="nextStep">下一步</string>
+    <string name="APSeekFine">AP快速配置</string>
+    <string name="nearDevcie">请将手机靠近设备,并点击发送声波按钮</string>
+    <string name="manualAddDevice">手动添加设备</string>
+    <string name="QRCode">二维码扫描</string>
+    <string name="WifiQuikConfig">AP快速配置</string>
+    <string name="soundWaveConfig">声波配置</string>
+    <string name="LANSeek">局域网搜索</string>
+    <string name="alarmPicture">报警图片</string>
+    <string name="editingDevice">修改设备</string>
+    <string name="deleteDevice">删除设备</string>
+    <string name="allDeleteDevice">删除选中</string>
+    <string name="checkAll">全选/反选</string>
+    <string name="alarmMessage">报警信息</string>
+    <string name="wifiList">WIFI列表</string>
+    <string name="demoState">演示说明</string>
+    <string name="firstStep">第一步</string>
+    <string name="firstStepState">请将手机的扬声器对准设备的麦克风(距离15里面内)</string>
+    <string name="stepTwo">第二步</string>
+    <string name="stepTwoState">发送声波,发送完成后请稍等，当听到设备发出配置成功的语音提示，点击下一步</string>
+    <string name="devicePrepare">设备准备配置</string>
+    <string name="wifiListingFail">WIFI列表获取失败</string>
+    <string name="deviceTurn">该设备不支持转动</string>
+    <string name="AllDeviceDelete">批量删除</string>
+    <string name="deviceHintUpdate">听到设备提示配置更新后，点击下一步或点击返回重新发送声波</string>
+    <string name="deviceSeekFail">设备搜索失败</string>
+    <string name="inProcessofSeekDevice">正在玩命配置,请耐心等候</string>
+    <string name="deviceWifiOpenFail">软件无权限开启WIFI,请手动开启后重试</string>
+    <string name="SoundWavePointer">请用顶针轻插设备reset,听到设备声波配置开启后点击下一步</string>
+    <string name="cancel">取消</string>
+    <string name="try_again">重试</string>
+    <string name="goon">继续</string>
+    <string name="confirm">确认</string>
+    <string name="lockpattern_recording_incorrect_too_short">至少连接4个点，请重试</string>
+    <string name="lockpattern_error">手势密码不对</string>
+    <string name="SoftwareUpdate">检测更新</string>
+    <string name="SoftwareNewVersion">有新版本更新</string>
+    <string name="SoftwareAPNotUpdate">AP模式下不支持更新</string>
+    <string name="NotNewVersion">无版本更新</string>
+    <string name="SoftwareeVersionNew">已经更新到最新版本</string>
+    <string name="SoftwareversionUpdate">版本更新</string>
+    <string name="NewVersionUpdateOnOrOff">有版本更新,是否进行版本更新?</string>
+    <string name="PhotoManage">相册</string>
+    <string name="deviceImageDelete">删除图片</string>
+    <string name="foundSoftwarePassword">创建密码</string>
+    <string name="deleteSoftwarePassword">删除密码</string>
+    <string name="deleteSoftwarePasswordSucceed">删除密码成功</string>
+    <string name="OnPassword">开启密码</string>
+    <string name="OffPassword">关闭密码</string>
+    <string name="alterPassword">修改密码</string>
+    <string name="inputPasswordErrorMore">您输入的密码错误次数过多,请稍后再试</string>
+    <string name="inputPasswordError">您输入的密码错误,还可输入</string>
+    <string name="passwordOrder">次</string>
+    <string name="leastInputPoint">最少要输入4个点,请重新输入</string>
+    <string name="resetInputPassword">重新设置解锁图案</string>
+    <string name="affirmPassern">确认解锁图案</string>
+    <string name="setPasswordSucceed">设置密码成功</string>
+    <string name="setPasswordLastDifferent">与上一次绘制不一致，请重新绘制</string>
+    <string name="drawDelockingPattern">绘制解锁图案</string>
+    <string name="setPasswordPreventSee">设置手势密码，防止他人未经授权查看</string>
+    <string name="deviceUpdate">正在进行版本更新,请勿切断设备电源</string>
+    <string name="signPassword">手势密码开关</string>
+    <string name="passwrodOn">手势密码开启</string>
+    <string name="passwrodOff">手势密码关闭</string>
+    <string name="passwrodDeleteSucceed">手势密码已删除</string>
+    <string name="anotherName">昵称:</string>
+    <string name="visitPassword">访问密码:</string>
+    <string name="seekHotspot">正在收索热点</string>
+    <string name="nearbyNotHotspot">附近暂无设备热点</string>
+    <string name="gainHotspotInformation">正在获取设备信息</string>
+    <string name="gainHotspotInformationSucceed">设备信息获取成功,可进行实时预览或添加到设备列表</string>
+    <string name="addList">添加列表</string>
+    <string name="realTimePreView">实时预览</string>
+    <string name="bufferPreView">正在缓冲</string>
+    <string name="connectDeviceHotspot">正在连接设备热点</string>
+    <string name="deviceHotspot">设备热点</string>
+    <string name="newPasswordAndOldPassword">新旧密码不能相同</string>
+    <string name="strWanOnline">互联网在线</string>
+    <string name="strLanOnline">局域网在线</string>
+    <string name="strWanOffline">互联网离线</string>
+    <string name="strOnlineChecking">正在连接&#8230;</string>
+    <string name="alarmReceiveSwitch">接收报警消息</string>
+    <string name="soundSet">报警提示声音</string>
+    <string name="shakeSet">报警提示震动</string>
+    <string name="deviceHaveAlarmMsg">有新的报警信息</string>
+    <string name="baiduDevice">设备</string>
+    <string name="deviceAlarmTime">设备报警时间</string>
+    <string name="versionDetection">版本检测</string>
+    <string name="deleteFail">删除失败</string>
+    <string name="appNewVersion">发现新版本</string>
+    <string name="appUpdateOrNot">是否更新软件</string>
+    <string name="appNoNoticeForThisVer">不在提示该版本</string>
+    <string name="strSmartLink">WIFI智能快配</string>
+    <string name="btnBackToConfig">返回重新配置</string>
+    <string name="preset">预置位</string>
+    <string name="presetTitle">预置位设置与定位</string>
+    <string name="presetOK">位置设定成功</string>
+    <string name="presetFail">位置设定失败</string>
+    <string name="btnPTZXSet">设定</string>
+    <string name="btnPTZXCall">调用</string>
+    <string name="relecanceLevelHigh">高</string>
+    <string name="relecanceLevelMedium">中</string>
+    <string name="relecanceLevelLow">低</string>
+    <string name="relecanceTypeRKE">门禁</string>
+    <string name="relecanceTypeSmoke">烟雾</string>
+    <string name="relecanceTypeMove">移动</string>
+    <string name="relecanceDeviceGainFail">设备获取失败,请您确定您的设备是否触发。或者您的设备是否已经添加后在重试</string>
+    <string name="relecanceDeviceConfiguration">配置</string>
+    <string name="relecanceAlarmLevel">请选择报警级别</string>
+    <string name="relecanceAlarmType">请选择报警类型</string>
+    <string name="relecanceAlarmName">名称不能为空</string>
+    <string name="relecanceName">名称</string>
+    <string name="relecanceAddressCode">地址码</string>
+    <string name="relecanceDeviceList">报警设备列表</string>
+    <string name="relecanceDeviceAdd">正在收索报警设备,请您触发一下您要添加的报警设备</string>
+    <string name="relecanceInputName">请输入报警设备名称</string>
+    <string name="relecanceType">报警类型</string>
+    <string name="relecanceLevel">报警级别</string>
+    <string name="relecanceSet">管理防区</string>
+    <string name="relecanceInputNameTooLong">您输入的名字过长,请减短后在重试</string>
+    <string name="relecanceSeekDevice">搜索新设备</string>
+    <string name="relecanceAlterDevice">修改设备</string>
+    <string name="relecanceAddDevice">添加新设备</string>
+    <string name="relecanceGAS">煤气</string>
+    <string name="relecanceOther">其它</string>
+    <string name="relecanceFeeling">温感</string>
+    <string name="relecanceDeviceSeekListFail">设备获取失败</string>
+    <string name="relecancePreset">预置位关联</string>
+    <string name="relecancePresetOff">取消关联</string>
+    <string name="relecancePresetNot">未关联</string>
+    <string name="relecancePresetNo">关联预置位</string>
+    <string name="relecanceAlarmOffOrOn">报警开关</string>
+    <string name="photoShare">分享</string>
+    <string name="snartLinkHint">提示</string>
+    <string name="snartLinkFailTitle">配置失败</string>
+    <string name="snartLinkStartHint">配置过程将在80秒内完成，请耐心等待</string>
+    <string name="snartLinkFailHint">设备与WIFI连接信号太弱或者密码有误</string>
+    <string name="clicktoloadimage">点击加载图片</string>
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_hint_loading">正在加载&#8230;</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入入更多</string>
+    <string name="areaSelection">区域选择</string>
+    <string name="areaSelections">区域选择</string>
+    <string name="area">当前区域:</string>
+    <string name="autoSelect">自动选择</string>
+    <string name="china">中国大陆</string>
+    <string name="china2">大陆内地</string>
+    <string name="zoneAS1">日本，韩国，台湾，香港，泰国，越南</string>
+    <string name="zoneAS2">马来西亚,新加坡</string>
+    <string name="zoneAS3">西亚</string>
+    <string name="zoneAS4">南亚印度</string>
+    <string name="zoneNA1">美国</string>
+    <string name="zoneSA1">巴西</string>
+    <string name="zoneEU1">英国</string>
+    <string name="zoneEU2">法国,德国</string>
+    <string name="zoneOA1">澳大利亚,新西兰</string>
+    <string name="zoneAF1">南非</string>
+    <string name="zoneAF2">埃及,苏丹</string>
+    <string name="AS1">亚洲1</string>
+    <string name="AS2">亚洲2</string>
+    <string name="AS3">亚洲3</string>
+    <string name="AS4">亚洲4</string>
+    <string name="NA1">北美</string>
+    <string name="SA1">南美</string>
+    <string name="EU1">欧洲1</string>
+    <string name="EU2">欧洲2</string>
+    <string name="OA1">大洋洲</string>
+    <string name="AF1">非洲1</string>
+    <string name="AF2">非洲2</string>
+    <string name="areaSave">保存成功</string>
+    <string name="SDCardFormat">设备SD卡格式化</string>
+    <string name="SDCardNetWordFail">设备网络连接失败,请检查您的网络再重试</string>
+    <string name="SDCardDeviceReturnFail">获取设备返回结果失败</string>
+    <string name="SDCardSucceed">设备SD卡正在格式化,在没听到设备提示格式化完成前。请勿断开设备电源</string>
+    <string name="SDCardFail">SD卡格式化失败</string>
+    <string name="SDCardALer">SD卡格式化后,SD里面的文件将全部被删除.是否进行格式化</string>
+
+    <!-- 以下为 戴钦雄 添加 -->
+    <string name="str_menu">菜单</string>
+    <!-- 编辑设备说明 -->
+    <string name="str_note">说明:</string>
+
+    <!-- helpfra 添加幫助選項 -->
+    <string name="str_fra_help">帮助</string>
+
+    <!-- add by dqx 2016年2月1日 功能指导 -->
+    <string name="str_showcase_fra_devicelist1">点击可以查看演示点</string>
+    <string name="str_showcase_fra_devicelist2">点击添加设备</string>
+    <string name="str_showcase_fra_configdevice1">点击选择设备</string>
+
+    <!-- add by dqx 2016年2月1日popup_window_more2 -->
+    <string name="str_popup_window_more1">删除</string>
+    <string name="str_popup_window_more2">编辑</string>
+    <string name="str_popup_window_more3">信息</string>
+
+    <!-- add by dqx 2016年2月1日 dialog_add_device_layout -->
+    <string name="str_dialog_add_device_layout1">新设备配置网络</string>
+    <string name="str_dialog_add_device_layout2">(WIFI智能快配:为首次启动和重置后的设备配置网络)</string>
+    <string name="str_dialog_add_device_layout3">添加已联网设备</string>
+    <string name="str_dialog_add_device_layout4">(手动添加设备ID号)</string>
+
+    <!-- add by dqx 2016年1月30日 -->
+    <string name="str_photo_activity">您未选择任何图片</string>
+
+    <!-- add by dqx 2016年1月25日  二维码文字语言适配 -->
+    <string name="str_qr_code">将二维码/条码放入框内，即可自动扫描</string>
+    <string name="str_qr_code1">将二维码/条码放入框内</string>
+    <string name="str_qr_code2">即可自动扫描</string>
+    <string name="title_scan_device">扫描二维码</string>
+
+    <!-- 设备网络配置语言适配  dqx 2016年1月25日 -->
+    <string name="str_loading">加载中&#8230;</string>
+    <string name="str_change_to_station">切换至STATION模式</string>
+    <string name="str_change_to_ap">切换至AP模式</string>
+    <string name="str_advanced_setup">高级设置</string>
+    <string name="str_save">保存</string>
+    <string name="str_IP">IP地址:</string>
+    <string name="str_subnet">子网掩码:</string>
+    <string name="str_default_gateway">默认网关:</string>
+
+    <!-- DeviceNetworkSettingFragment dqx 2016年1月25日 -->
+    <string name="str_mode_unknow">当前设备网络模式为UNKNOW模式</string>
+    <string name="str_mode_station">当前设备网络模式为STATION模式</string>
+    <string name="str_mode_ap">当前设备网络模式为AP模式</string>
+    <string name="str_title_edit">修改</string>
+
+    <!-- NVAlarmMsgListViewActivity dqx -->
+    <string name="str_none_msgs">当前设备暂无新的报警信息</string>
+    
+    <!-- 预设位 -->
+    <string name="str_Preset_Position">预设位</string>
+    <string name="str_preset_position">该设备无预设位功能</string>
+
+    <!-- dqx 2016年4月8日  权限提醒 -->
+    <string name="str_permission_camera1">相机权限异常，该功能无法使用</string>
+    <string name="str_permission_camera2">相机权限异常，您需要在[设置-应用-demo-权限]开启相机权限</string>
+    <string name="str_permission_request">权限请求</string>
+    <string name="str_permission_phone1">关闭电话权限会影响程序报警信息推送功能正常运作，请在[设置-应用-demo-权限]开启电话权限</string>
+    <string name="str_permission_neglect">忽略</string>
+    <string name="str_permission_setting">设置密码</string>
+    <string name="str_permission_setting2">去设置</string>
+    <string name="str_permission_storage1">关闭存储空间权限会导致程序数据读取与存储功能异常，请在[设置-应用-demo-权限]开启存储空间权限</string>
+    <string name="str_permission_storage2">存储空间权限异常，无法存储/读取数据，您需要在[设置-应用-demo-权限]中开启存储空间权限</string>
+    <string name="str_permission_microphone1">麦克风权限异常，该功能无法使用</string>
+    <string name="str_permission_microphone2">麦克风权限异常，该功能无法使用，您需要在[设置-应用-demo-权限]中开启麦克风权限</string>
+    <string name="str_permission_location">关闭位置信息权限会影响程序搜索设备/热点功能，请在[设置-应用-demo-权限]开启位置信息权限</string>
+    <string name="str_saving">正在保存设置&#8230;</string>
+
+    <!-- 静态IP设置 -->
+    <string name="str_static_ip_config">静态IP配置</string>
+    <string name="str_ip">IP:</string>
+    <string name="str_subnet_mask">子网掩码:</string>
+    <string name="str_gateway">网关:</string>
+    <string name="str_main_dns">主DNS:</string>
+    <string name="str_sub_dns">次DNS:</string>
+    <string name="str_null_ip">IP地址不能为空</string>
+    <string name="str_null_subnet">子网掩码不能为空</string>
+    <string name="str_null_gateway">网关不能为空</string>
+    <string name="str_null_main_dns">主DNS不能为空</string>
+    <string name="str_error_ip">IP地址格式错误</string>
+    <string name="str_error_subnet">子网掩码格式错误</string>
+    <string name="str_error_gateway">网关格式错误</string>
+    <string name="str_error_main_dns">主DNS格式错误</string>
+    <string name="str_error_sub_dns">次DNS格式错误</string>
+    <string name="str_auto_config">自动配置</string>
+    <string name="str_manual_config">手动配置</string>
+
+    <!-- 一键布撤防 -->
+    <string name="str_monitor_activate">布防</string>
+    <string name="str_monitor_deactivate">撤防</string>
+    <string name="str_monitor_activate_success">布防成功</string>
+    <string name="str_monitor_activate_fail">布防失败</string>
+    <string name="str_monitor_deactivate_success">撤防成功</string>
+    <string name="str_monitor_deactivate_fail">撤防失败</string>
+    <string name="str_monitor_activating">正在布防&#8230;</string>
+    <string name="str_monitor_deactivating">正在撤防&#8230;</string>
+
+    <!-- add by dqx 2016年5月16日 -->
+    <string name="str_not_support">设备不支持</string>
+
+    <!-- add by dqx 2016年5月26日 -->
+    <string name="str_hotspot">请打开GPS位置开关，否则应用将获取不到设备热点信息</string>
+
+    <!-- dqx 2016年6月8日 -->
+    <string name="str_alarm_time">时间：</string>
+    <string name="date_current2">日期</string>
+    <string name="time_current2">时间</string>
+    <string name="lblDate2">选择日期</string>
+    <string name="lblStartTime2">开始时间</string>
+    <string name="lblEndTime2">结束时间</string>
+
+    <!-- dqx 2016年6月22日 -->
+    <string name="str_deleting">删除中&#8230;</string>
+    <string name="str_sharing">分享中&#8230;</string>
+
+     <!-- 谢河明 -->
+    <string name="str_recording">录像</string>
+    <string name="str_cloud_terrace">云台</string>
+    <string name="str_position">预设位</string>
+    <string name="str_screenshoot">截图</string>
+    
+    <!-- add by xie 2016年6月13日 -->
+    <string name="str_quick_register">快速注册</string>
+    <string name="str_register">注册</string>
+    <string name="str_mailbox_register">邮箱注册</string>
+    <string name="hint_password">确认密码</string>
+    <string name="verify_code">验证码(六位数字)</string>
+    <string name="str_verify_code">验证码</string>
+    <string name="str_mobile_phone">手机</string>
+    <string name="str_username">用户</string>
+    <string name="str_quick_register_phone">手机快速注册</string>
+    
+    <!-- xie 2016-6-20 -->
+    <string name="Please_enter_password">请输入密码</string>
+    <string name="Please_enter_username">请输入用户名</string>
+    <string name="Confirm">确认</string>
+    <string name="Cancel">取消</string>
+    <string name="Username_or_phoneNo">电话号码|邮箱</string>
+    <string name="Forget_password">忘记密码</string>
+    <string name="The_phone_number_can_not_be_empty">电话号码不能为空</string>
+    <string name="Please_enter_the_correct_phone_number">请输入正确的电话号码</string>
+    <string name="The_username_can_not_be_empty">用户名不能为空</string>
+    <string name="The_password_can_not_be_empty">密码不能为空</string>
+    <string name="The_verify_code_can_not_be_empty">请输入正确形式的验证码</string>
+    <string name="Verify_code_is_incorrect">验证码不正确</string>
+    <string name="Resend">重新发送</string>
+    <string name="Second">秒</string>
+    <string name="The_next_step">下一步</string>
+    <string name="Receive_SMS_verify_code">收到的短信验证码</string>
+    <string name="str_enter">请输入</string>
+    <string name="str_agree">同意</string>
+    <string name="str_register_protocol">demo用户注册协议</string>
+	<string name="str_register_remark">备注:密码由数字、字母、特殊符号或者其中的混合组合所组成的6&#8211;14个字符</string>
+	<string name="str_resetpwd_remark">备注:密码由数字、字母、特殊符号或者其中的混合组合所组成的6&#8211;14个字符</string>
+    <string name="str_finish">完成</string>
+    <string name="set_new_password">请设置新的登录密码</string>
+    <string name="entry_experience"><u>本地登录</u></string>
+
+    <!-- 2016-6-21 xie -->
+    <string name="title_alert">提示消息</string>
+    
+    <!-- 2016-6-27 xie -->
+    <string name="verify_codes_is_overtime">验证码超时</string>
+    <string name="confirm_correct_password">请输入6到14位正确形式的密码</string>
+    <string name="confirm_correct_username">请输入正确形式的用户名</string>
+    <string name="password_do_not_match">两次输入的密码不一致</string>
+    <string name="complete_password">请完成密码输入</string>
+    <string name="user_isnot_exist">用户不存在</string>
+    <string name="email_register"><u>通过邮箱注册</u></string>
+    <string name="title_email_register">邮箱注册</string>
+    <string name="phone_register"><u>通过手机注册</u></string>
+    <string name="set_password">设置密码</string>
+    <string name="str_fast_register"><u>快速注册</u></string>
+    <string name="set_login_password">请设置登录密码</string>
+    <string name="enter_mailbox_address">请输入邮箱地址</string>
+    <string name="enter_correct_mailbox">请输入正确形式的邮箱地址</string>
+    <!-- 2016-6-29 xie-->
+    <string name="update_list_tip">设备列表已是最新</string>
+    <string name="personal_information">个人信息</string>
+    <string name="fail_to_login">用户名或密码不正确</string>
+    <string name="login_password">登录密码</string>
+    <string name="Security_Settings">安全设置</string>
+    <string name="Account_info">账户信息</string>
+    <!-- 2016-6-30 xie-->
+    <string name="Mailbox">邮箱</string>
+    <string name="change_way">选择修改方式</string>
+    <string name="Phone_verification">通过手机或邮箱验证</string>
+    <string name="Old_password">通过旧密码</string>
+    <string name="Personal_info_newpwd">新密码</string>
+    <string name="Set_Pwd_tip">密码由数字、字母、特殊符号或者其中的混合组合所组成的6&#8211;14个字符</string>
+    <string name="str_old_pwd">旧密码</string>
+    <!-- 2016-7-1 xie-->
+    <string name="Edit_Device_Fail">编辑设备失败</string>
+    <string name="Network_Error">无法连接到服务器，请检查网络连接或稍后再试</string>
+    <string name="Phone_exist">手机号已存在</string>
+    <string name="Register_success">注册成功，两秒后跳转至登陆界面</string>
+    <string name="Mail_Is_Exist">邮箱已存在</string>
+     
+    <!-- 2016-7-14 -->
+    <string name="Device_Is_Existence">设备已存在</string>
+    <string name="Update_password">修改密码成功</string>
+    <string name="second_verify_code">请输入正确验证码</string>
+    
+    <!-- 2016-7-16 -->
+    <string name="Unknown_mistake">未知错误，请重新操作</string>
+    
+    <!-- 2016-7-19 -->
+    <string name="Stop_recording">是否停止录像？</string>
+    
+    <!-- 2016-7-22 -->
+    <string name="UpdatePwd_by_mailbox">通过邮箱修改</string>
+    <string name="UpdatePwd_by_phone">通过手机修改</string>
+    <string name="Mailbox_can_not_be_empty">邮箱不能为空</string>
+    <string name="Please_enter_the_correct_mailbox_address">请输入正确的邮箱地址</string>
+    <string name="Mailbox_reset_successfully">邮件发送成功，请到邮箱确认修改</string>
+    <string name="User_not_activitated">请到邮箱激活用户</string>
+    
+    <!-- 2016-7-29 xhm -->
+    <string name="Do_not_need_code">邮箱验证，无需验证码</string>
+    <string name="Delete_device">是否删除设备?</string>
+    
+    <!-- dqx 2016年6月27日 -->
+    <string name="str_cloud_storage">云存储服务</string>
+    <string name="str_device_not_bind_service">设备未绑定服务，请绑定服务</string>
+    <string name="str_service_products">服务产品</string>
+    <string name="str_purchase_service">购买服务</string>
+    <string name="str_renew_service">续费服务</string>
+    <string name="str_ask_for_delete">是否删除？</string>
+    <string name="str_delete_ok">删除成功</string>
+    <string name="str_delete_fail">删除失败</string>
+
+    <!-- dqx 2016年7月8日 -->
+    <string name="str_login_to_use_function">请先登录后再使用此功能</string>
+    <string name="str_not_bind_service">未绑定</string>
+    <string name="str_has_bind_service">已绑定</string>
+    <string name="str_service_out_of_date">已过期</string>
+    
+    <!-- dqx 2016年7月9日 -->
+    <string name="str_network_error">网络异常，请稍后重试</string>
+    <string name="str_get_device_list_network_error">网络异常，获取用户设备列表失败，请稍后重试</string>
+    <string name="str_lastest_list">设备列表已经是最新的</string>
+    <string name="str_401">身份信息过期，请重新登录</string>
+    <string name="str_get_device_list_error">获取用户设备列表失败</string>
+    <string name="str_get_device_server_list_error">获取账户云服务列表信息失败</string>
+    <string name="str_get_device_server_info_error">获取设备绑定的云服务信息失败</string>
+    <string name="str_get_device_service_list_size_0">您当前尚未购买任何云服务，请先购买服务</string>
+    <string name="str_device_has_bind_service">设备已绑定服务: </string>
+    <string name="str_device_service_outofdate">设备绑定的服务已过期, 请续费或解绑后再绑定其他服务</string>
+    
+    <string name="str_cloud_record_search">云存储录像搜索: </string>
+    <string name="str_bind">绑定</string>
+    <string name="str_unbind">解绑</string>
+    <string name="str_valid_code_get_fail">获取验证码失败，请稍后重试</string>
+    <string name="str_valid_code_error">验证码错误</string>
+    <string name="str_valid_code_out_of_date">验证码过期 </string>
+    <string name="str_get_service_list_fail">获取服务列表失败，请检查您的网络或者稍后重试 </string>
+    <string name="str_service_had_binded_other_device">该云服务套餐已绑定其他设备</string>
+    <string name="str_device_had_binded_service">该设备已绑定云服务套餐</string>
+    <string name="str_device_bind_service_fail">设备绑定云服务失败</string>
+    <string name="str_device_bind_service_fail_not_support">设备不支持云服务，绑定失败</string>
+    <string name="str_valid_code_6_digits">请输入6位数字验证码</string>
+    <string name="str_valid_code_input">请输入收到的验证码：</string>
+    
+    <string name="str_search_cloud_record_files">搜索录像</string>
+    <string name="str_unbind_service_list">未绑定服务列表</string>
+    <string name="str_unbind_service_fail">解绑云服务套餐失败</string>
+    <string name="str_unbind_service_ok">解绑云服务套餐成功</string>
+    <string name="str_bind_service">绑定服务</string>
+    <string name="str_unbind_service">解绑服务</string>
+    <string name="str_connect_to_device_ing">正在连接设备&#8230;</string>
+    <string name="str_connect_to_device_ok">连接设备成功&#8230;</string>
+    <string name="str_connect_to_device_fail">连接设备失败&#8230;</string>
+    <string name="str_connect_to_server_wait">等待连接服务器&#8230;</string>
+    <string name="str_connect_to_server_ing">正在连接服务器&#8230;</string>
+    <string name="str_connect_to_server_ok">连接服务器成功&#8230;</string>
+    <string name="str_connect_to_server_fail">连接服务器失败&#8230;</string>
+
+    <string name="str_recording_2">录像中&#8230;</string>
+    <string name="str_record_ok">录像完成，录像文件以保存到SD卡目录:/SDcard/demo/</string>
+    
+    <string name="str_login_state_false">未登录</string>
+    <string name="str_server_error">服务器繁忙，请稍后重试</string>
+    <string name="str_get_device_list_server_error">服务器繁忙，获取用户设备列表失败，请稍后重试</string>
+    
+    <string name="str_bind_service_fail">绑定云服务套餐失败</string>
+    <string name="str_bind_service_ok">绑定云服务套餐成功</string>
+    
+    <string name="str_connect_device_fail">连接设备失败，请稍后重试</string>
+    <string name="str_search_record_file_fail">搜索录像文件失败，请稍后重试</string>
+    <string name="str_login_exit">退出当前账户</string>
+    <string name="str_app_exit">退出应用</string>
+    
+    <string name="str_is_last_file">当前已是最后一个录像文件</string>
+    <string name="str_is_first_file">当前已是第一个录像文件</string>
+    
+    
+    <string name="str_unbind_type">请选择解绑方式：</string>
+    <string name="str_mail_input">当前用户为邮箱注册用户，点击“确定”按钮，将会发送邮件到您的邮箱，请前往邮箱确定解除绑定</string>
+    <string name="str_user_not_set_email">用户未设置邮箱</string>
+    <string name="str_send_unbind_email_ok">邮件发送成功，请到邮箱进行确认</string>
+    <string name="str_bind_device_error">添加设备失败</string>
+    <string name="str_user_no_bind_device">当前用户没有添加设备</string>
+    
+    <string name="str_other_user_binding_device">用户正在为该设备绑定云存储服务中，请稍后再试</string>
+    
+    <!-- 2016-7-26 xmh-->
+    <string name="Reset_pwd_fail">修改密码失败，请稍后再试</string>
+    <string name="Send_code_fail">发送验证码失败，请稍后再试</string>
+    <string name="Login_failed">登录失败，请稍后再试</string>
+    <string name="Registration_fail">注册失败，请稍后再试</string>
+    <string name="Mailbox_register_successfully">邮件发送成功，请到邮箱激活用户</string>
+    <string name="Old_pwd_error">旧密码错误</string>
+    <string name="pwd_hint">请输入八位的WIFI密码</string>
+    
+    <string name="str_do_not_support_mic">当前设备不支持麦克风功能</string>
+    
+    <string name="str_select">选择</string>
+    <string name="str_unbind_confirm">解绑云服务套餐可能导致云存储录像文件被清除，是否解绑？</string>
+    
+    <string name="str_ap_bind401">身份信息错误，添加设备到用户设备列表失败，请在设备列表页面搜索设备</string>
+    <string name="str_ap_bind500">服务器繁忙，添加设备到用户设备列表失败，请在设备列表页面搜索设备</string>
+    <string name="str_ap_bind_network_error">网络错误，添加设备到用户设备列表失败，请在设备列表页面搜索设备</string>
+    <string name="str_ap_bind_other_error">添加设备到用户设备列表失败，请在设备列表页面搜索设备</string>
+    
+    <string name="str_device_hotspot_search_device">登录模式下，手机连接设备热点搜索设备将不能添加设备到用户设备列表，请将设备切换至Station模式或使用"本地登录"模式</string>
+    <string name="str_get_service_info_fail">获取设备绑定服务信息失败</string>
+    <string name="str_unbinding_service">解绑中</string>
+    <string name="str_wait_to_play">请等待视频开始播放后再进行录像</string>
+    
+    
+    <string name="str_rec_file_exist">录像文件已存在</string>
+    <string name="str_rec_file_download_finish">下载完成</string>
+    <string name="str_rec_file_download">该录像文件正在下载</string>
+    <string name="str_storage_not_enough">存储空间不足，无法下载</string>
+    <string name="str_rec_file_download_connecting">连接中</string>
+    <string name="str_rec_file_redownload">重新下载</string>
+    
+    <string name="str_rec_file_cancle1">是否取消正在下载的文件？</string>
+    <string name="str_rec_file_cancle2">请等待下载任务结束或取消所有下载任务后点击进入录像回放</string>
+    <string name="str_rec_file_cancle3">同时下载任务过多，请等待</string>
+    <string name="str_rec_file_cancle4">取消下载</string>
+    <string name="str_rec_file_downloading">下载中</string>
+    
+    <string name="str_guide_for_operation">操作指导</string>
+    
+    <string name="str_rec_file_stop_download">停止下载</string>
+    
+    <string name="str_about_app">关于</string>
+    <string name="str_fisheye_mode">模式</string>
+    <string name="str_exit">退出</string>
+    
+    <string name="str_device_pwd">设备密码</string>
+    <string name="str_device_camera">安装模式</string>
+    
+    
+    <!-- 2016.10.31 -->
+    <string name="str_had_send_verify_code">验证码已发送至 </string>
+    
+    <!-- 2016.11.01 修改设备密码 -->
+    <string name="str_modify_device_info">设置新密码</string>
+    <string name="str_security_notice">密码安全提示</string>
+    <string name="str_notice_pwd_need_set">当前设备未设置密码，为了您的隐私安全，请设置密码！</string>
+    
+    <string name="str_adding">添加中&#8230;</string>
+    
+    
+    <!-- 2017-1-6 报警图片列表 -->
+    <string name="str_load_alarm_image_fail">加载图片失败，请稍后重试&#8230;</string>
+    
+    <!-- 2017-3-3 自定义报警设置-->
+    <string name="str_alarm_all_day">全天候报警</string>
+    <string name="str_custom_time">自定义时间</string>
+    <string name="str_add_start_time">请添加开始时间</string>
+    <string name="str_add_end_time">请添加结束时间</string>
+    <string name="str_add_custom_time">添加时间</string>
+    <string name="str_next_step">下一步</string>
+    <string name="str_alarm_area">报警区域</string>
+    <string name="str_non_alarm_area">非报警区域</string>
+    <string name="str_select_area_below">请在下方选择报警区域</string>
+    <string name="str_fail_to_set_time">开始时间与结束时间不能相同</string>
+    <string name="str_device_does_not_support_custom">设备不支持自定义设置，请升级设备</string>
+    <string name="str_time_quantity">时间段已达上限</string>
+    <string name="str_please_login_to_use">请登录后再使用此功能</string>
+    <string name="str_bind_to_use">该设备未绑定云服务</string>
+    
+    <string name="str_cloud_storage_record">云存储录像</string>
+    <string name="str_tf_card_record">TF卡录像</string>
+    <string name="str_turn_on_alarm_switch">请打开布撤防开关</string>
+    
+    <string name="str_clear">清除</string>
+    
+    <string name="str_device_does_not_support_alarm_area">全景设备暂不支持此功能</string>
+    
+    <string name="str_wechat_payment_order">微信支付订单</string>
+    <string name="str_wechat_confirm_payment">确认支付</string>
+    <string name="str_wechat_payment_tip">对不起， 未能成功跳转,请手动点击确认支付</string>
+    <string name="str_wechatpay_successful">支付成功</string>
+    <string name="str_wechatpay_failed">支付失败</string>
+    <string name="str_wechatpay_canceled">支付取消</string>
+    <string name="str_please_intall_wechat">请安装微信</string>
+    
+    <string name="str_smartlink_tip">如配置成功后未成功跳转，请手动返回设备列表</string>
+    
+    <string name="str_skip_ad">跳过</string>
+    
+    <!-- 2017-4-20 xhm -->
+    <string name="str_skip_update_soft">稍后提醒</string>
+    <string name="str_update_soft">立即更新</string>
+    <string name="str_update_sofeware_title">软件更新提示</string>
+    <string name="str_software_version">版本：</string>
+    <string name="str_message_dialog_btn">知道了</string>
+    
+    <!-- 2017-5-19 -->
+    <string name="str_upload_to_oss">上传到OSS</string>
+    <string name="str_upload_successfully">上传成功</string>
+    <string name="str_upload_failed">上传失败</string>
+    <!-- <string name="str_is_error_alarm_pic"><u>本图是否误报？</u>.</string>-->
+    <string name="str_channels">通道:</string>
+    
+    <!-- 2017-5-25 登录实时预览录音权限申请 -->
+    <string name="str_permission_microphone_login">为了保证您的观看体验，请您在[设置-应用-demo-权限]中开启麦克风权限</string>
+    
+    <!-- 2017-5-31 -->
+   	<string name="str_light_controler">灯控</string>
+   	<string name="str_open_light">开灯</string>
+   	<string name="str_close_light">关灯</string>
+   	<string name="str_auto_light">自动</string>
+   	
+   	<!-- 2017-6-12 -->
+   	<string name="str_use_hw_fail">硬解码失败，重新使用软解码</string>
+   	
+   	<!-- 2017-6-20 -->
+   	<string name="str_HDecodeing">硬解码</string>
+   	<string name="str_SDecodeing">软解码</string>
+   	
+   	<string name="str_Password_Incorrect">密码设置错误</string>
+   	
+   	<!-- 2017-7-3 -->
+   	<string name="str_alipay_intall_tip">未检测到支付宝客户端，请安装后重试。</string>
+   	<string name="str_intall_now">立即安装</string>
+   	<string name="str_set_password_tip">密码由6&#8211;30位字符组成，包含至少两种或两种以上的字母、数字或半角符号，区分大小</string>
+   	<string name="str_Password_is_too_simple">密码强度太弱，有隐私泄露风险，请重新输入由多种字符组成的复杂密码</string>
+   	<string name="str_Password_is_too_short">密码长度不正确，请重新设置</string>
+   	
+   	<string name="str_is_error_alarm_pic">此图是否误报？</string>
+   	<string name="str_is_false_positive">是</string>
+   	<string name="str_is_not_false_positive">否</string>
+   	
+   	<!-- 2017-7-5 -->
+   	<string name="str_false_positive_head">误报:</string>
+   	<string name="str_false_positive_body1">1.图片有人，但红框选中的不是人</string>
+    <string name="str_false_positive_body2">2.图片没人，但红框仍然选中物体</string>
+   	
+    <!-- 2017-7-7 -->
+    <string name="str_alarm_area_tip">报警区域不能为空，请重新设置</string>
+    
+    <string name="str_Tips">温馨提示</string>
+    <string name="str_feedback">您的反馈可改善准确度</string>
+    
+    <!-- 2017-7-10 -->
+    <string name="password_is_empty">密码不能为空，请重新输入</string>
+    <!-- Password rule -->
+    <string name="rule_password">0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ`¬!"£$%^*()~=#{}[];':,./?/*-_+""|&#060;&#062;&#064;&#038;</string>
+    <!-- 2017-7-21 -->
+    <string name="str_auto_bind_service_tip">恭喜您已购买云套餐\n云套餐激活后即可使用\n是否激活？</string>
+    <string name="str_ignore_auto_bind">暂不绑定</string>
+    <string name="str_auto_bind_service_now">立即绑定</string>
+    
+    <!-- 2017-7-27 -->
+    <string name="str_ai_snap">人工智能报警图片</string>
+</resources>
